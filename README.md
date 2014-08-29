@@ -18,9 +18,9 @@ Add a word with zg shortcut to the spellfile. You will get a reminder to upload 
 
 ## Usefull shortcuts
     
-    zg  add a word to the spellfile
-    zug undo zg
-    zw  mark a wrong word.
-    zuw undo zw
-    zc  clean the spellfile form comments
-    zs  sort the spellfile alphabetical
+    zg - add a word to the spellfile
+    zug - undo zg
+    zw - mark a wrong word.
+    zuw - undo zw
+    zc - clean the spellfile form comments
+    zs - sort the spellfile alphabetical
