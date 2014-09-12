@@ -15,7 +15,6 @@ Domängrenzen
 Downstreams
 Empfangsschleife
 Empfängerinformationen
-Gruppenaddresse
 Gruppenadresse
 Gruppenadressen
 Gruppendaten
@@ -114,7 +113,6 @@ technologieunabhängige
 technologieübergreifend
 technologieübergreifende
 technologieübergreifenden
-verwendene
 zustandsbehaftet
 zustandsbehaftete
 zustandslos
@@ -122,3 +120,16 @@ zustandslose
 zustandsloses
 zustansbehaftete
 Übersetzungsstrategie
+Softstates
+Netzwerkebene
+Netzwerkschichten
+Konfigurationsgruppe
+Netzwerkhierarchie
+Routingregeln
+Skalierungsproblemen
+DHT
+RTT
+Gruppensignalisierungen
+selbständig/!
+potentielle/!
+verwendene/!
