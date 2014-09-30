@@ -10,5 +10,5 @@ noremap zg zg:echo "Think of uploading the spellfile!"<CR>
 noremap zc :runtime spell/cleanadd.vim<CR>
 
 "to sort a spellfile
-noremap zs :%sort<CR>
+noremap zs :%sort u<CR>
 
