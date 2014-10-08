@@ -13,5 +13,5 @@ noremap zc :runtime spell/cleanadd.vim<CR>
 noremap zr ozzzz<ESC>:w<CR>zgzugdd:w<CR>
 
 "to sort a spellfile
-noremap zs :%sort<CR>
+noremap zs :%sort u<CR>
 
