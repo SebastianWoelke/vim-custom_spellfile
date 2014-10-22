@@ -59,6 +59,7 @@ Hashfunktions
 Hashwert
 Hashwertes
 Hosts
+IGMPv3
 IMG
 IMGs
 IPTV
@@ -83,6 +84,7 @@ Konfigurationsgruppen
 Konzeptionierung
 Lohmühlenpark
 MLD
+MLDv2
 Multicast
 Multiservice
 Nachbarschaftsbeziehungen
@@ -102,6 +104,7 @@ PIM
 PNS
 Providernetzwerkes
 Queriers
+RPs
 RTT
 Robustheitsvariable
 Routingaufwand
@@ -119,6 +122,7 @@ Skalierungsproblemen
 Softstate
 Softstates
 Sommerabschluss
+Subnetz
 Subnetzwerke
 Technologieebene
 Teilstring
@@ -147,8 +151,9 @@ domänbegrenzt
 domänenintern
 domänenübergreifend
 domänenübergreifende
-domänenübergreifendes
 domänenübergreifenden
+domänenübergreifender
+domänenübergreifendes
 geflutet
 gehasht
 getriggerte
