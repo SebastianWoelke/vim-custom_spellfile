@@ -21,9 +21,9 @@ elif [ $# = 1 ]; then
 fi
 
 if [ $1 = "push" ]; then
+    git pull
     ./push_wordlist.sh git
     git commit -a -m "Update wordlist."
-    git pull
     git push
     ./push_wordlist.sh https 
 fi
