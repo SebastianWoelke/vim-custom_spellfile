@@ -6,6 +6,18 @@ var_https="https://git::@github.com/aufgang001/vim-custom_spellfile.git"
 
 if [ $# = 0 ]; then
     ./push_wordlist.sh push
+elif [ $# = 1 ]; then
+
+    if [ $1 = "https" ]; then
+        cd .git
+        sed -i s!"$var_git"!"$var_https"!g config
+    fi
+
+    if [ $1 = "git" ]; then
+        cd .git
+        sed -i s!"$var_https"!"$var_git"!g config
+    fi
+
 fi
 
 if [ $1 = "push" ]; then
@@ -15,17 +27,4 @@ if [ $1 = "push" ]; then
     git push
     ./push_wordlist.sh https 
 fi
-
-if [ $1 = "https" ]; then
-    cd .git
-    sed -i s!"$var_git"!"$var_https"!g config
-fi
-
-if [ $1 = "git" ]; then
-    cd .git
-    sed -i s!"$var_https"!"$var_git"!g config
-fi
-
-
-	
 
