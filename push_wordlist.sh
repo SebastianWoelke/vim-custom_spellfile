@@ -10,8 +10,8 @@ fi
 
 if [ $1 = "push" ]; then
     ./push_wordlist.sh git
-    git pull
     git commit -a -m "Update wordlist."
+    git pull
     git push
     ./push_wordlist.sh https 
 fi
