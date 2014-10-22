@@ -18,13 +18,14 @@ elif [ $# = 1 ]; then
         sed -i s!"$var_https"!"$var_git"!g config
     fi
 
+    if [ $1 = "push" ]; then
+        git pull
+        ./push_wordlist.sh git
+        git commit -a -m "Update wordlist."
+        git push
+        ./push_wordlist.sh https 
+    fi
+
 fi
 
-if [ $1 = "push" ]; then
-    git pull
-    ./push_wordlist.sh git
-    git commit -a -m "Update wordlist."
-    git push
-    ./push_wordlist.sh https 
-fi
 
