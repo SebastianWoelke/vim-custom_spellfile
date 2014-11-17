@@ -24,3 +24,4 @@ Add a word with zg shortcut to the spellfile. You will get a reminder to upload 
     zuw - undo zw
     zc - clean the spellfile form comments
     zs - sort the spellfile alphabetical
+    zr - refresh the wordlist (after a pull)
