@@ -13,8 +13,10 @@ Absenderadressen
 Abstimmungsverfahren
 Aktualisierungszyklen
 Aktualisierungszyklus
+Anforderungsunterschiede
 Anwendungsentwickler
 Architekturdiagramm
+Audioqualität
 Ausfallsicherheit
 Authentifizierungssystem
 BIDIR
@@ -23,8 +25,11 @@ DHCPs
 DHT
 DVMRP
 Dateiliste
+Datendurchsatz
+Datendurchsatzes
 Debian
 Deregister
+Designraum
 Domänengrenze
 Domänengrenzen
 Domänenteilnehmer
@@ -71,6 +76,7 @@ IMGs
 IPTV
 IPv4
 IPv6
+IRTF
 ISPs
 Implementierungs
 Implementierungsaufwand
@@ -111,8 +117,14 @@ Netzwerkinfrastruktur
 Netzwerkschicht
 Netzwerkschichten
 PIM
+Paketverlust
+Programmanforderungen
 Providernetzwerkes
 Queriers
+RFC
+RFCs
+RMRG
+RMT
 RPs
 RTT
 Robustheitsvariable
@@ -133,6 +145,7 @@ Skalierungsproblemen
 Softstate
 Softstates
 Sommerabschluss
+Staukontrolle
 Subnetz
 Subnetzwerke
 Technologieebene
