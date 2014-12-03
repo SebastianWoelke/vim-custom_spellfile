@@ -19,6 +19,7 @@ Audioqualität
 Ausfallsicherheit
 Authentifizierungssystem
 BIDIR
+Bezahlsysteme
 DHCPs
 DHT
 DVMRP
@@ -106,6 +107,7 @@ Netzwerkhierarchien
 Netzwerkinfrastruktur
 Netzwerkschicht
 Netzwerkschichten
+Nutzungsberichte
 PIM
 Paketverlust
 Programmanforderungen
@@ -133,6 +135,7 @@ Softstate
 Softstates
 Sommerabschluss
 Staukontrolle
+Staukontrollen
 Subnetz
 Subnetzwerke
 Technologieebene
@@ -145,6 +148,7 @@ Umformungsaktionen
 Umkehrabbildung
 Umkehrabbildungen
 Umsetzungsmöglichkeiten
+Verlustrate
 Verlustwahrscheinlichkeit
 Versionsfeld
 Verteilbaum
@@ -156,6 +160,7 @@ Wiederholzyklus
 Woelke
 Zieldomäne
 Zusatzprotokoll
+Zustellungsbestätigung
 abzugreifen
 bereit gestellt/!
 domänbegrenzt
