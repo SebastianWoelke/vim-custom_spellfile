@@ -14,19 +14,27 @@ Abstimmungsverfahren
 Aktualisierungszyklen
 Aktualisierungszyklus
 Anforderungsunterschiede
+Anwendungsentwickler
 Architekturdiagramm
 Audioqualität
 Ausfallsicherheit
 Authentifizierungssystem
 BIDIR
+<<<<<<< HEAD
 Bezahlsysteme
+=======
+DCCP
+>>>>>>> f1074f0a1095905baa3f0d48eb0502bf25888f63
 DHCPs
 DHT
 DVMRP
+Dateiliste
 Datendurchsatz
 Datendurchsatzes
+Debian
 Deregister
 Designraum
+Domänengrenze
 Domänengrenzen
 Domänenteilnehmer
 Domängrenzen
@@ -65,6 +73,7 @@ Hashfunktions
 Hashwert
 Hashwertes
 Hosts
+IETF
 IGMPv3
 IMG
 IMGs
@@ -77,6 +86,7 @@ Implementierungs
 Implementierungsaufwand
 Informationsbasis
 Informationsverlust
+Infosammlung
 Instantiierung/!
 Instanze
 Instanziierung
@@ -89,9 +99,12 @@ Komponentendiagramm
 Konfigurationsgruppe
 Konfigurationsgruppen
 Konzeptionierung
+LEDBAT
 Lohmühlenpark
 MLD
 MLDv2
+MPTCP
+Middleboxes
 Multicast
 Multiservice
 Nachbarschaftsbeziehungen
@@ -113,6 +126,7 @@ Paketverlust
 Programmanforderungen
 Providernetzwerkes
 Queriers
+RFC
 RFCs
 RMRG
 RMT
@@ -126,10 +140,12 @@ Routingprotokoll
 Routingprotokolle
 Routingprotokollen
 Routingregeln
+SCTP
 SHA1
 SSM
 Sammelanfrage
 Sicherheitsmerkmale
+Sicherheitsprobleme
 Skalierungsproblemen
 Softstate
 Softstates
@@ -140,9 +156,11 @@ Subnetz
 Subnetzwerke
 Technologieebene
 Teilstring
+Testdurchlauf
 Topologieszenario
 Topologietyp
 Transportgruppe
+Transportprotokolls
 URIs
 Umformungsaktionen
 Umkehrabbildung
@@ -163,6 +181,7 @@ Zusatzprotokoll
 Zustellungsbestätigung
 abzugreifen
 bereit gestellt/!
+der selben/!
 domänbegrenzt
 domänenintern
 domänenübergreifend
