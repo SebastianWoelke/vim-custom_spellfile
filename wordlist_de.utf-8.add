@@ -2,6 +2,7 @@ ACK
 ACKs
 ADU
 ADUs
+ALC
 ALMs
 ASM
 Abbildungeszustände
@@ -19,6 +20,8 @@ Aktualisierungszyklen
 Aktualisierungszyklus
 Anforderungsunterschiede
 Anwendungsentwickler
+Anwendungsfall
+Anwendungsfällen
 Architekturdiagramm
 Audioqualität
 Ausfallsicherheit
@@ -103,6 +106,7 @@ Kompatibilitätsmodus
 Komponentendiagramm
 Konfigurationsgruppe
 Konfigurationsgruppen
+Konfigurationsmöglichkeiten
 Konzeptionierung
 LEDBAT
 Lohmühlenpark
@@ -128,6 +132,7 @@ Netzwerkhierarchien
 Netzwerkinfrastruktur
 Netzwerkschicht
 Netzwerkschichten
+Netzwerkstacks
 Netzwerktypen
 Netzwerkumgebung
 Nutzungsberichte
@@ -145,6 +150,7 @@ RMRG
 RMT
 RPs
 RTT
+Relailable/!
 Robustheitsvariable
 Routingaufwand
 Routingeffizienz
@@ -158,6 +164,7 @@ SHA1
 SSM
 Sammelanfrage
 Satellitennetzwerke
+Sequenznummern
 Sicherheitsmerkmale
 Sicherheitsprobleme
 Skalierungsproblemen
@@ -180,6 +187,7 @@ Umformungsaktionen
 Umkehrabbildung
 Umkehrabbildungen
 Umsetzungsmöglichkeiten
+Unicast
 Verlustrate
 Verlustwahrscheinlichkeit
 Versionsfeld
