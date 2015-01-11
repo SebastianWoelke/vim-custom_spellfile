@@ -24,7 +24,9 @@ Audioqualität
 Ausfallsicherheit
 Authentifizierungssystem
 BIDIR
+Bachelorzeugnis
 Bezahlsysteme
+Bitfehler
 DCCP
 DHCPs
 DHT
@@ -49,6 +51,7 @@ Erstkontakt
 FEC
 FECs
 Fallback
+Fehlerkorrekturverfahren
 Flutens
 Grillanzünder
 Grillkohle
@@ -66,6 +69,8 @@ Gruppennamen
 Gruppennamens
 Gruppensignalisierungen
 Gruppenteilnehmer
+Gruppenteilnehmern
+Gruppentelefonie
 Gruppenverwaltung
 Gruppenverwaltungen
 Gruppenverwaltungsnachrichten
@@ -109,6 +114,8 @@ Lohmühlenpark
 MLD
 MLDv2
 MPTCP
+Masterarbeit
+Masterstudiengang
 Middleboxes
 Multicast
 Multiservice
@@ -120,12 +127,14 @@ Namensschema
 Namensschemas
 Netzwerkbedingung
 Netzwerkbedingungen
+Netzwerkbeschränkungen
 Netzwerkebene
 Netzwerkebenen
 Netzwerkeigenschaften
 Netzwerkhierarchie
 Netzwerkhierarchien
 Netzwerkinfrastruktur
+Netzwerklast
 Netzwerkschicht
 Netzwerkschichten
 Netzwerktypen
@@ -158,6 +167,9 @@ SHA1
 SSM
 Sammelanfrage
 Satellitennetzwerke
+Satellitenverbindungen
+Satellitenverbindungen/!
+Sicherheitsbedenken
 Sicherheitsmerkmale
 Sicherheitsprobleme
 Skalierungsproblemen
@@ -167,6 +179,7 @@ Sommerabschluss
 Staukontrolle
 Staukontrollen
 Subnetz
+Subnetzes
 Subnetzwerke
 Technologieebene
 Teilstring
@@ -174,6 +187,8 @@ Testdurchlauf
 Topologieszenario
 Topologietyp
 Transportgruppe
+Transportprotokoll
+Transportprotokolle
 Transportprotokolls
 URIs
 Umformungsaktionen
@@ -191,9 +206,11 @@ Videostreaming
 Wiederholzyklus
 Woelke
 Zieldomäne
+Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
 abzugreifen
+aufrecht erhalten/!
 bereit gestellt/!
 der selben/!
 domänbegrenzt
@@ -227,11 +244,16 @@ technologieunabhängiger
 technologieübergreifend
 technologieübergreifende
 technologieübergreifenden
+voran zubringen/!
 z. B.
+zeitverzögert
+zeitverzögerten
+zusammen fasst/!
 zustandsbehaftet
 zustandsbehaftete
 zustandslos
 zustandslose
 zustandslosen
 zustandsloses
+Übergangszwecke
 Übersetzungsstrategie
