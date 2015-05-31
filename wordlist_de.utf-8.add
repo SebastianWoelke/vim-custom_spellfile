@@ -19,6 +19,7 @@ Abstimmungsverfahren
 Aktualisierungszyklen
 Aktualisierungszyklus
 Anforderungsunterschiede
+Anwendungsabhängig/!
 Anwendungsentwickler
 Anwendungsfall
 Anwendungsfällen
@@ -30,6 +31,9 @@ BIDIR
 Bachelorzeugnis
 Bezahlsysteme
 Bitfehler
+CCN
+CCNx
+CDN
 DCCP
 DHCPs
 DHT
@@ -86,10 +90,13 @@ Hashfunktions
 Hashwert
 Hashwertes
 Hosts
+IANA
+ICN
 IETF
 IGMPv3
 IMG
 IMGs
+IOT
 IPTV
 IPv4
 IPv6
@@ -114,17 +121,22 @@ Konfigurationsgruppen
 Konfigurationsmöglichkeiten
 Konzeptionierung
 LEDBAT
+LTE
 Lohmühlenpark
+Longboard
 MLD
 MLDv2
 MPTCP
 Masterarbeit
 Masterstudiengang
+Mcproxy
 Middlebox
 Middleboxes
+Mininet
 Multicast
 Multiservice
 NACKs
+NDN
 Nachbarschaftsbeziehungen
 Nachrichtenduplikate
 Namensebene
@@ -152,6 +164,7 @@ Paketverlusten
 Portnummern
 Problemfelder
 Programmanforderungen
+Protokollschichten
 Providernetzwerkes
 Queriers
 RFC
@@ -161,6 +174,7 @@ RMT
 RPs
 RTT
 Relailable/!
+Resourcen/!
 Robustheitsvariable
 Routingaufwand
 Routingeffizienz
@@ -175,6 +189,8 @@ SSM
 Sammelanfrage
 Satellitennetzwerke
 Satellitenverbindungen
+Schlafzyklen
+Sequenznummer
 Sequenznummern
 Sicherheitsbedenken
 Sicherheitsmerkmale
@@ -194,6 +210,7 @@ Testdurchlauf
 Topologieszenario
 Topologietyp
 Transportgruppe
+Transportmethode
 Transportprotokoll
 Transportprotokolle
 Transportprotokollen
@@ -212,14 +229,21 @@ Verteilbaums
 Verteilbäume
 Verwaltungsgruppe
 Videostreaming
+WiFi
+WiFi/!
+WiMAX
+Wie viele/!
 Wiederholzyklus
 Woelke
+Zieladresse
 Zieldomäne
 Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
 abzugreifen
+anwendungsabhängig
 aufrecht erhalten/!
+authentifizierbar
 bereit gestellt/!
 der selben/!
 domänbegrenzt
@@ -239,7 +263,11 @@ internetübergreifende
 internetübergreifendes
 invertierbar
 kollisionsfrei
+middleware
+minimalistisch
+minimalistische
 mitgehasht
+namespace
 potentielle/!
 ressourcenschonender
 selbständig/!
