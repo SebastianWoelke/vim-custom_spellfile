@@ -23,6 +23,7 @@ Anwendungsabhängig/!
 Anwendungsentwickler
 Anwendungsfall
 Anwendungsfällen
+Anycast
 Architekturdiagramm
 Audioqualität
 Ausfallsicherheit
@@ -89,6 +90,7 @@ Hashfunktion
 Hashfunktions
 Hashwert
 Hashwertes
+Hauptanwendung
 Hosts
 IANA
 ICN
@@ -114,6 +116,7 @@ Klassendiagramm
 Kollisionswahrscheinlichkeit
 Kommunikationsaufwand
 Kommunikationsaufwands
+Kommunikationsformen
 Kompatibilitätsmodus
 Komponentendiagramm
 Konfigurationsgruppe
@@ -122,6 +125,7 @@ Konfigurationsmöglichkeiten
 Konzeptionierung
 LEDBAT
 LTE
+Locater/!
 Lohmühlenpark
 Longboard
 MLD
@@ -158,6 +162,7 @@ Netzwerkstacks
 Netzwerktypen
 Netzwerkumgebung
 Nutzungsberichte
+PANINI
 PIM
 Paketverlust
 Paketverlusten
@@ -166,6 +171,7 @@ Problemfelder
 Programmanforderungen
 Protokollschichten
 Providernetzwerkes
+Quantcast
 Queriers
 RFC
 RFCs
@@ -192,6 +198,8 @@ Satellitenverbindungen
 Schlafzyklen
 Sequenznummer
 Sequenznummern
+Serverabsturz
+Serverabstürze
 Sicherheitsbedenken
 Sicherheitsmerkmale
 Sicherheitsprobleme
@@ -221,6 +229,7 @@ Umkehrabbildung
 Umkehrabbildungen
 Umsetzungsmöglichkeiten
 Unicast
+Verbindungsabbrüche
 Verlustrate
 Verlustwahrscheinlichkeit
 Versionsfeld
@@ -229,14 +238,15 @@ Verteilbaums
 Verteilbäume
 Verwaltungsgruppe
 Videostreaming
-WiFi
-WiFi/!
 WiMAX
 Wie viele/!
 Wiederholzyklus
 Woelke
+Workflow
+Youtube
 Zieladresse
 Zieldomäne
+Zipf's
 Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
@@ -245,6 +255,7 @@ anwendungsabhängig
 aufrecht erhalten/!
 authentifizierbar
 bereit gestellt/!
+challanges/!
 der selben/!
 domänbegrenzt
 domänenintern
@@ -256,6 +267,7 @@ domänenübergreifendes
 geflutet
 gehasht
 getriggerte
+google
 instantiiert/!
 instanziiert
 interdomänes
@@ -267,10 +279,13 @@ middleware
 minimalistisch
 minimalistische
 mitgehasht
+multiplayer
 namespace
-potentielle/!
+pageviews
 ressourcenschonender
 selbständig/!
+stateful
+subprotocol
 technologiespezifische
 technologiespezifischen
 technologietransparente
@@ -281,7 +296,9 @@ technologieunabhängiger
 technologieübergreifend
 technologieübergreifende
 technologieübergreifenden
+toolbar
 voran zubringen/!
+workflow
 z. B.
 zeitverzögert
 zeitverzögerten
