@@ -113,6 +113,7 @@ Infosammlung
 Instantiierung/!
 Instanze
 Instanziierung
+Interst/!
 Klassendiagramm
 Kollisionswahrscheinlichkeit
 Kommunikationsaufwand
@@ -125,6 +126,7 @@ Konfigurationsgruppen
 Konfigurationsmöglichkeiten
 Konzeptionierung
 LEDBAT
+LFU
 LTE
 Locater/!
 Lohmühlenpark
@@ -140,9 +142,13 @@ Middleboxes
 Mininet
 Multicast
 Multiservice
+NAC
 NACKs
+NAMs
 NDN
 NFD
+NFDs
+NLSR
 Nachbarschaftsbeziehungen
 Nachrichtenduplikate
 Namensebene
@@ -184,6 +190,7 @@ RTT
 Relailable/!
 Resourcen/!
 Robustheitsvariable
+Rocketfuel
 Routingaufwand
 Routingeffizienz
 Routingentscheidungen
@@ -217,6 +224,7 @@ Subnetzwerke
 Technologieebene
 Teilstring
 Testdurchlauf
+Therefor/!
 Topologieszenario
 Topologietyp
 Transportgruppe
@@ -226,6 +234,7 @@ Transportprotokolle
 Transportprotokollen
 Transportprotokolls
 URIs
+URTs
 Umformungsaktionen
 Umkehrabbildung
 Umkehrabbildungen
@@ -270,6 +279,9 @@ geflutet
 gehasht
 getriggerte
 google
+informations/!
+initialized
+initialized/!
 instantiiert/!
 instanziiert
 interdomänes
