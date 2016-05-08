@@ -23,6 +23,7 @@ Anwendungsabhängig/!
 Anwendungsentwickler
 Anwendungsfall
 Anwendungsfällen
+Anycast
 Architekturdiagramm
 Audioqualität
 Ausfallsicherheit
@@ -59,6 +60,7 @@ Empfängerinformationen
 Erstkontakt
 FEC
 FECs
+FIBs
 Fallback
 Fehlerkorrekturverfahren
 Flutens
@@ -91,6 +93,7 @@ Hashfunktion
 Hashfunktions
 Hashwert
 Hashwertes
+Hauptanwendung
 Hosts
 IANA
 ICN
@@ -113,10 +116,12 @@ Infosammlung
 Instantiierung/!
 Instanze
 Instanziierung
+Interst/!
 Klassendiagramm
 Kollisionswahrscheinlichkeit
 Kommunikationsaufwand
 Kommunikationsaufwands
+Kommunikationsformen
 Kompatibilitätsmodus
 Komponentendiagramm
 Konfigurationsgruppe
@@ -124,7 +129,9 @@ Konfigurationsgruppen
 Konfigurationsmöglichkeiten
 Konzeptionierung
 LEDBAT
+LFU
 LTE
+Locater/!
 Lohmühlenpark
 Longboard
 MLD
@@ -138,8 +145,13 @@ Middleboxes
 Mininet
 Multicast
 Multiservice
+NAC
 NACKs
+NAMs
 NDN
+NFD
+NFDs
+NLSR
 Nachbarschaftsbeziehungen
 Nachrichtenduplikate
 Namensebene
@@ -161,6 +173,7 @@ Netzwerkstacks
 Netzwerktypen
 Netzwerkumgebung
 Nutzungsberichte
+PANINI
 PIM
 Paketverlust
 Paketverlusten
@@ -169,6 +182,7 @@ Problemfelder
 Programmanforderungen
 Protokollschichten
 Providernetzwerkes
+Quantcast
 Queriers
 RFC
 RFCs
@@ -180,6 +194,7 @@ Raumvermietung
 Relailable/!
 Resourcen/!
 Robustheitsvariable
+Rocketfuel
 Routingaufwand
 Routingeffizienz
 Routingentscheidungen
@@ -196,6 +211,8 @@ Satellitenverbindungen
 Schlafzyklen
 Sequenznummer
 Sequenznummern
+Serverabsturz
+Serverabstürze
 Sicherheitsbedenken
 Sicherheitsmerkmale
 Sicherheitsprobleme
@@ -211,6 +228,7 @@ Subnetzwerke
 Technologieebene
 Teilstring
 Testdurchlauf
+Therefor/!
 Topologieszenario
 Topologietyp
 Transportgruppe
@@ -220,11 +238,13 @@ Transportprotokolle
 Transportprotokollen
 Transportprotokolls
 URIs
+URTs
 Umformungsaktionen
 Umkehrabbildung
 Umkehrabbildungen
 Umsetzungsmöglichkeiten
 Unicast
+Verbindungsabbrüche
 Verlustrate
 Verlustwahrscheinlichkeit
 Versionsfeld
@@ -233,14 +253,15 @@ Verteilbaums
 Verteilbäume
 Verwaltungsgruppe
 Videostreaming
-WiFi
-WiFi/!
 WiMAX
 Wie viele/!
 Wiederholzyklus
 Woelke
+Workflow
+Youtube
 Zieladresse
 Zieldomäne
+Zipf's
 Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
@@ -252,6 +273,7 @@ authentifizierbar
 bereit gestellt/!
 blog
 blogging
+challanges/!
 der selben/!
 domänbegrenzt
 domänenintern
@@ -263,6 +285,10 @@ domänenübergreifendes
 geflutet
 gehasht
 getriggerte
+google
+informations/!
+initialized
+initialized/!
 instantiiert/!
 instanziiert
 interdomänes
@@ -274,11 +300,13 @@ middleware
 minimalistisch
 minimalistische
 mitgehasht
+multiplayer
 namespace
-potentielle/!
+pageviews
 ressourcenschonender
 selbständig/!
 stateful
+subprotocol
 technologiespezifische
 technologiespezifischen
 technologietransparente
@@ -289,7 +317,10 @@ technologieunabhängiger
 technologieübergreifend
 technologieübergreifende
 technologieübergreifenden
+toolbar
+traceroute
 voran zubringen/!
+workflow
 z. B.
 zeitverzögert
 zeitverzögerten
