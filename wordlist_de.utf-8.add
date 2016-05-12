@@ -30,7 +30,9 @@ Ausfallsicherheit
 Authentifizierungssystem
 BIDIR
 Bachelorzeugnis
+Beschallungsanlage
 Bezahlsysteme
+Bitcoin
 Bitfehler
 CCN
 CCNx
@@ -96,6 +98,7 @@ Hosts
 IANA
 ICN
 IETF
+IGMP
 IGMPv3
 IMG
 IMGs
@@ -189,6 +192,7 @@ RMRG
 RMT
 RPs
 RTT
+Raumvermietung
 Relailable/!
 Resourcen/!
 Robustheitsvariable
@@ -264,10 +268,13 @@ Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
 abzugreifen
+an other/!
 anwendungsabhängig
 aufrecht erhalten/!
 authentifizierbar
 bereit gestellt/!
+blog
+blogging
 by
 can not/!
 challanges/!
