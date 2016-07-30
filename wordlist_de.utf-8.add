@@ -29,6 +29,7 @@ Audioqualität
 Ausfallsicherheit
 Auslandssemester
 Authentifizierungssystem
+BGP
 BIDIR
 Bachelorzeugnis
 Beschallungsanlage
@@ -54,6 +55,7 @@ Domänengrenzen
 Domänenteilnehmer
 Domängrenzen
 Downstreams
+Dropbox
 Effizienzvorteils
 Einsatzzweck
 Empfangsrate
@@ -63,7 +65,7 @@ Erstkontakt
 FEC
 FECs
 FIBs
-Fachgebundene
+Facebook
 Fallback
 Fehlerkorrekturverfahren
 Flutens
@@ -71,6 +73,7 @@ Furthermore,
 Furthermore/!
 Grillanzünder
 Grillkohle
+Grillkäse
 Grillzange
 Gruppenadresse
 Gruppenadressen
@@ -119,10 +122,12 @@ Implementierungsaufwand
 Informationsbasis
 Informationsverlust
 Infosammlung
+Instagram
 Instantiierung/!
 Instanze
 Instanziierung
 Interst/!
+IoT
 Klassendiagramm
 Kollisionswahrscheinlichkeit
 Kommunikationsaufwand
@@ -141,6 +146,7 @@ LTE
 Locater/!
 Lohmühlenpark
 Longboard
+Lösungsraum
 MLD
 MLDv2
 MPTCP
@@ -164,6 +170,7 @@ NLSR
 Nachbarschaftsbeziehungen
 Nachrichtenduplikate
 Namensebene
+Namenshoheit
 Namensschema
 Namensschemas
 Netzwerkbedingung
@@ -214,6 +221,7 @@ Routingprotokollen
 Routingregeln
 SCTP
 SHA1
+SPT
 SSM
 Sammelanfrage
 Satellitennetzwerke
@@ -265,6 +273,7 @@ Verteilbaums
 Verteilbäume
 Verwaltungsgruppe
 Videostreaming
+WebRTC
 WiMAX
 Wie viele/!
 Wiederholzyklus
@@ -281,6 +290,7 @@ Zustellungsbestätigung
 abzugreifen
 an other/!
 anwendungsabhängig
+as follow/!
 aufrecht erhalten/!
 authentifizierbar
 bereit gestellt/!
@@ -313,6 +323,7 @@ internetübergreifende
 internetübergreifendes
 invertierbar
 kollisionsfrei
+locator
 middleware
 minimalistisch
 minimalistische
@@ -321,7 +332,9 @@ multiplayer
 namespace
 overlayed
 pageviews
+preprocesses
 pricy
+realtime
 ressourcenschonender
 selbständig/!
 stateful
