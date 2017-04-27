@@ -36,6 +36,7 @@ Beschallungsanlage
 Bezahlsysteme
 Bitcoin
 Bitfehler
+CAF
 CCN
 CCNx
 CDN
@@ -240,6 +241,7 @@ Skalierungsproblemen
 Softstate
 Softstates
 Sommerabschluss
+Speicherlokalität
 Staukontrolle
 Staukontrollen
 Subnetz
@@ -290,6 +292,7 @@ Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
 abzugreifen
+allokiert
 an other/!
 anwendungsabhängig
 as follow/!
@@ -315,6 +318,8 @@ geflutet
 gehasht
 getriggerte
 google
+hwloc
+inbox
 informations/!
 initialized
 initialized/!
@@ -331,6 +336,7 @@ minimalistisch
 minimalistische
 mitgehasht
 multiplayer
+multithreading
 namespace
 overlayed
 pageviews
