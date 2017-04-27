@@ -1,6 +1,6 @@
 #!/bin/bash
 
-var_git="git@github.com-aufgang001:aufgang001/vim-custom_spellfile.git"
+var_git="git@github.com:aufgang001/vim-custom_spellfile.git"
 
 var_https="https://git::@github.com/aufgang001/vim-custom_spellfile.git"
 
