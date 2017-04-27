@@ -2,7 +2,7 @@
 
 var_git="git@github.com:aufgang001/vim-custom_spellfile.git"
 
-var_https="https://git::@github.com/aufgang001/vim-custom_spellfile.git"
+var_https="https://github.com/aufgang001/vim-custom_spellfile.git"
 
 if [ $# = 0 ]; then
     ./push_wordlist.sh push
