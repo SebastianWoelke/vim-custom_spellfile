@@ -72,6 +72,7 @@ Fehlerkorrekturverfahren
 Flutens
 Furthermore,
 Furthermore/!
+GPUs
 Grillanzünder
 Grillkohle
 Grillkäse
@@ -140,6 +141,8 @@ Konfigurationsgruppe
 Konfigurationsgruppen
 Konfigurationsmöglichkeiten
 Konzeptionierung
+L2
+L3
 LEDBAT
 LFU
 LPM
@@ -291,6 +294,7 @@ Zipf's
 Zufallszeit
 Zusatzprotokoll
 Zustellungsbestätigung
+Zweitprüfer
 abzugreifen
 allokiert
 an other/!
@@ -313,12 +317,15 @@ domänenübergreifenden
 domänenübergreifender
 domänenübergreifendes
 downstreams
+enqueuing
 enumerability
 geflutet
 gehasht
 getriggerte
 google
 hwloc
+i.e.
+in box/!
 inbox
 informations/!
 initialized
@@ -338,8 +345,12 @@ mitgehasht
 multiplayer
 multithreading
 namespace
+nebenläufig
+nebenläufige
+nebenläufiger
 overlayed
 pageviews
+preconfigured
 preprocesses
 pricy
 realtime
@@ -347,6 +358,7 @@ ressourcenschonender
 selbständig/!
 stateful
 subprotocol
+synchronisation
 technologiespezifische
 technologiespezifischen
 technologietransparente
@@ -359,7 +371,9 @@ technologieübergreifende
 technologieübergreifenden
 toolbar
 traceroute
+tradeoff
 voran zubringen/!
+work load/!
 workflow
 z. B.
 zeitverzögert
