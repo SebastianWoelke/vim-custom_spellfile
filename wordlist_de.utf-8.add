@@ -16,6 +16,7 @@ Abbildungsverfahrens
 Absenderadresse
 Absenderadressen
 Abstimmungsverfahren
+Akka
 Aktualisierungszyklen
 Aktualisierungszyklus
 Anforderungsunterschiede
@@ -24,6 +25,7 @@ Anwendungsentwickler
 Anwendungsfall
 Anwendungsfällen
 Anycast
+Anzündkamin
 Architekturdiagramm
 Audioqualität
 Ausfallsicherheit
@@ -40,6 +42,7 @@ CAF
 CCN
 CCNx
 CDN
+CLS
 Cryptocurrency
 DCCP
 DHCPs
@@ -162,6 +165,7 @@ Middlebox
 Middleboxes
 Mininet
 Multicast
+Multicore
 Multiservice
 NAC
 NACKs
@@ -196,10 +200,12 @@ Netzwerkumgebung
 Nutzungsberichte
 PANINI
 PIM
+PUs
 Paketverlust
 Paketverlusten
 Portnummern
 Positionsgröße
+Prefetching
 Problemfelder
 Programmanforderungen
 Protokollschichten
@@ -271,6 +277,7 @@ Umkehrabbildung
 Umkehrabbildungen
 Umsetzungsmöglichkeiten
 Unicast
+VM
 Verbindungsabbrüche
 Verlustrate
 Verlustwahrscheinlichkeit
@@ -306,6 +313,7 @@ bereit gestellt/!
 blog
 blogging
 by
+by by/!
 can not/!
 challanges/!
 der selben/!
@@ -336,12 +344,14 @@ interdomänes
 internetübergreifende
 internetübergreifendes
 invertierbar
+it it/!
 kollisionsfrei
 locator
 middleware
 minimalistisch
 minimalistische
 mitgehasht
+multicore
 multiplayer
 multithreading
 namespace
@@ -351,6 +361,9 @@ nebenläufiger
 overlayed
 pageviews
 preconfigured
+prefetch
+prefetches
+prefetching
 preprocesses
 pricy
 realtime
@@ -369,10 +382,13 @@ technologieunabhängiger
 technologieübergreifend
 technologieübergreifende
 technologieübergreifenden
+to to/!
 toolbar
 traceroute
 tradeoff
 voran zubringen/!
+which which/!
+with with/!
 work load/!
 workflow
 z. B.
